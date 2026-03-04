@@ -1,7 +1,7 @@
 // src/components/Navbar.jsx
 import React from 'react';
 import './Navbar.css';
-import netcoSymbol from '../assets/Netco-Symbol.png'; // Importa tu símbolo
+import netcoSymbol from '../assets/netco-symbol.png'; // Importa tu símbolo
 
 const Navbar = () => {
     return (
